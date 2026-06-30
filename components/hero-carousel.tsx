@@ -5,24 +5,24 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const carouselImages = [
   {
-    src: "/images/20260601_144831.jpg.jpeg",
+    src: "/images/20260601_125749.jpg copy.jpeg",
+    alt: "Amanda Salgados - Variedade de salgadinhos",
+  },
+  {
+    src: "/images/20260601_144831.jpg copy.jpeg",
     alt: "Amanda Salgados - Salgadinhos frescos variados",
   },
   {
-    src: "/images/20260601_142526.jpg.jpeg",
+    src: "/images/20260601_142526.jpg copy.jpeg",
     alt: "Amanda Salgados - Doces e churros",
   },
   {
-    src: "/images/20260601_142303.jpg.jpeg",
-    alt: "Amanda Salgados - Combo com refrigerante lata",
-  },
-  {
-    src: "/images/20260601_141801.jpg.jpeg",
+    src: "/images/20260601_142303.jpg copy.jpeg",
     alt: "Amanda Salgados - Combo com refrigerante garrafa",
   },
   {
-    src: "/images/20260601_125749.jpg.jpeg",
-    alt: "Amanda Salgados - Variedade de salgadinhos",
+    src: "/images/20260601_141801.jpg copy.jpeg",
+    alt: "Amanda Salgados - Combo com refrigerante lata",
   },
 ]
 
