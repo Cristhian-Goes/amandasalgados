@@ -1,4 +1,4 @@
-import { CheckCircle2 } from "lucide-react"
+import { CircleCheck as CheckCircle2 } from "lucide-react"
 
 const features = [
   "Fabricação própria com ingredientes selecionados",
