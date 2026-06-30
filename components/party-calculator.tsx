@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
-import { Minus, Plus, Check, AlertTriangle, Package, Users, MessageCircle, Sparkles, X } from "lucide-react"
+import { Minus, Plus, Check, TriangleAlert as AlertTriangle, Package, Users, MessageCircle, Sparkles, X } from "lucide-react"
 
 const combos = [
   { units: 400, price: 276 },
