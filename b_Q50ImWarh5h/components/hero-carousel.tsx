@@ -5,36 +5,24 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const carouselImages = [
   {
-    src: "https://lh3.googleusercontent.com/p/AF1QipOVRGBh-QvoyDhx3RV77Pk90Vx37LkihHsj-m2F=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Salgadinhos frescos",
+    src: "/images/20260601_144831.jpg.jpeg",
+    alt: "Amanda Salgados - Salgadinhos frescos variados",
   },
   {
-    src: "https://lh3.googleusercontent.com/p/AF1QipO2JfQmRo6fAChxwpX6VQNnGBla8HEu2WyuKHEO=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Variedade de salgados",
+    src: "/images/20260601_142526.jpg.jpeg",
+    alt: "Amanda Salgados - Doces e churros",
   },
   {
-    src: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHK2RF3p63N3--cyhwAWi3Qp7fhnUolnJA2gBqmL6RXPJFhZ0XuqCbGK-H6RqWabMiSIl6FWF2zpChxvyLHpkj_JLGyOpulNHv7E4naNB5PJnntUIA8N2r5bSpAchZIL1YCH1WldJjNRll-=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Ambiente",
+    src: "/images/20260601_142303.jpg.jpeg",
+    alt: "Amanda Salgados - Combo com refrigerante lata",
   },
   {
-    src: "https://lh3.googleusercontent.com/p/AF1QipNowO2bpl0L1x79C46XJlBYvHMCTG9GR7xJWzDN=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Porções",
+    src: "/images/20260601_141801.jpg.jpeg",
+    alt: "Amanda Salgados - Combo com refrigerante garrafa",
   },
   {
-    src: "https://lh3.googleusercontent.com/p/AF1QipMv-npJo-hW95NZtggEUK31mpjruHICSmJQPVGq=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Frituras",
-  },
-  {
-    src: "https://lh3.googleusercontent.com/p/AF1QipNQ3LSu6yDdVw6u2kjHlhw1LU_kg2RBWQwfhk1W=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Coxinhas",
-  },
-  {
-    src: "https://lh3.googleusercontent.com/p/AF1QipM6KfSFmmwe_ljM9oz7eYclB6op-43JwowAOWRM=s1360-w1360-h1020-rw",
-    alt: "Amanda Salgados - Esfihas",
-  },
-  {
-    src: "https://static.ifood-static.com.br/image/upload/t_medium/pratos/709eb118-faba-4c73-975a-ba079b31d4c0/202508011557_7D4J_i.jpg",
-    alt: "Amanda Salgados - Porção especial",
+    src: "/images/20260601_125749.jpg.jpeg",
+    alt: "Amanda Salgados - Variedade de salgadinhos",
   },
 ]
 
